@@ -32,7 +32,7 @@ public class MemberController {
     private MemberRepository memberRepository;
 
     @Autowired
-    MemberValidator memberValidator;
+    MemberValidator memberValidator;hhu
 
     @Autowired
     MemberService memberService;
